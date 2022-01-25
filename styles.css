@@ -1,0 +1,14 @@
+h1 {
+  background-color: #240747;
+  color: #f0ab8d;
+  font-family: monospace;
+  padding: 30px;
+  font-size: 35px;
+}
+.header {
+  font-weight: bold;
+  font-size: 45px;
+}
+.secondheader {
+  font-size: 35px;
+}
