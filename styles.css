@@ -1,3 +1,7 @@
+body {
+  background-color: #f6e4ad;
+}
+
 h1 {
   background-color: #240747;
   color: #f0ab8d;
@@ -15,6 +19,7 @@ h1 {
 }
 .secondheader {
   font-size: 35px;
+  display: block;
 }
 
 .col {
@@ -29,4 +34,13 @@ h1 {
   top: 10px;
   left: 200px;
   margin-right: 0;
+}
+.youtubevideo {
+  display: block;
+  margin: auto;
+  padding: 30px;
+}
+
+.carpic {
+  color: white;
 }
